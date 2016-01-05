@@ -1,0 +1,11 @@
+baseurl = "http://ccjeat.github.io/"
+languageCode = "en-us"
+title = "Up logs"
+theme = "hyde-x"
+paginate = 10
+
+[author]
+    name = "Jty"
+
+[permalinks]
+    post = "/blog/:year/:month/:day/:title/"
