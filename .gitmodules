@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:ccjeaty/ccjeaty.github.io.git
