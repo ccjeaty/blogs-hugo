@@ -1,8 +1,8 @@
 +++
-categories = [clojure,fp]
+categories = ["clojure","fp"]
 date = "2016-01-05T16:31:07+08:00"
 description = ""
-keywords = [clojure]
+keywords = ["clojure"]
 title = "clojure functional programming"
 
 +++
