@@ -1,7 +1,7 @@
-baseurl = "http://ccjeat.github.io/"
+baseurl = "http://ccjeaty.github.io/"
 languageCode = "zh-CN"
 title = "Logs"
-theme = "hyde-x"
+theme = "aglaus"
 paginate = 10
 
 [author]
